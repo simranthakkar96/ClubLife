@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Club Life</string>
+    <string name="nearby">Nearby</string>
+    <string name="connect">Connect</string>
+    <string name="profile">profile</string>
+
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="selected2_item">Selected item:</string>
+    <string-array name="Preferred_Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
